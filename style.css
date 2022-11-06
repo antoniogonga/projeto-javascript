@@ -1,0 +1,187 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-1{
+    background-image: url(img/WhatsApp\ Image\ 2022-10-25\ at\ 22.24.05.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}   
+
+.cabeçalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.cabeçalho h1{
+    font-family: "jackey one";
+    color: #fff;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.cabeçalho span{
+    color: #fb0a0a;
+}
+
+.cabeçalho-link{
+   display: flex;
+   gap: 50px;
+}
+
+.cabeçalho-link a{
+    font-family: "jackey one";
+    color: #fff;
+    font-size: 25px;
+}
+
+.container-main{
+    display: flex;
+    justify-content: center;
+    margin-top: 125px;
+}
+
+.container-main img{
+    width: 250px;
+    height: auto;
+}
+
+.container-title{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+
+.container-title h2{
+
+    font-family: "IM Fell Enflish";
+    color:#fff;
+    font-size: 40px;
+    font-weight: normal;
+}
+
+.container-title h4{
+    font-size: 25px;
+    color: #fff;
+    font-family: "jackey one";
+    font-weight: normal;
+    margin-bottom: 150px;
+}
+
+.conteiner-2{
+    display: flex;
+    padding: 50px;
+    background-color: #1d1827;
+}
+
+.section-2 img{
+    width: 500px;
+    height: auto;
+}
+
+.section-title h1{
+    font-family: "jackey one";
+    color: #fff;
+    font-weight: normal;
+    font-size: 65px;
+    margin-left: 25px;
+}
+
+.section-title hr{
+    width: 90%;
+    max-width: 980px;
+    margin-left: 40px;
+    border: solid 1px red;
+}
+
+.section-title p{
+    color: #fff;
+    font-family: "Pangolin" ;
+    font-weight: normal;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.Border-solid{
+    display: block;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-left: 50px;
+    border: solid 1px red;
+    padding: 10px;
+    width: 90%px;
+    max-width: 980px;
+    border-radius: 8px;
+}
+
+.infomação-1 p{
+    padding: 15px;
+}
+
+.infomação-2 p{
+    padding: 15px;     
+}
+
+.container-3{
+    padding: 55px;
+    background-color: #16131c;
+}
+
+.container-3 h4{
+    color: #fb0a0a;
+    font-size: 30px;
+    font-family: "Pangolin" ;
+    font-weight: normal;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.container-3 hr{
+    width: 90%;
+    max-width: 980px;
+    margin-left: 100px;
+    border: solid 1px red;
+    margin-top: 5px;
+}
+
+.Section-3{
+    display: flex;
+    justify-content: space-between;
+    text-align: center ;
+    margin-top: 150px;
+}
+
+.card-border{
+    border: solid 1px red;
+    border-radius: 5px;
+    padding: 35px;
+}
+
+.card-border img{
+    width: 70px;
+    height: auto;
+}
+
+.card-border h3{
+    color: #fff;
+    font-family: "Pangolin" ;
+    font-weight: normal;
+    font-size: 22px;
+}
+
+.card-border p{
+    color: #fff;
+    font-family: "Pangolin";
+    font-weight: normal;
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+
+
+
